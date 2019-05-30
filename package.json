@@ -1,0 +1,24 @@
+{
+  "name": "express-app-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GIS1974/express-app-example.git"
+  },
+  "keywords": [],
+  "author": "Igor Guba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GIS1974/express-app-example/issues"
+  },
+  "homepage": "https://github.com/GIS1974/express-app-example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
